@@ -1,0 +1,10 @@
+body {
+    padding: 20px;
+  }
+  #spawn-chatroom {
+    margin-bottom: 20px;
+  }
+  .chat-output {
+    height: 80px;
+    overflow-y: scroll;
+  }
